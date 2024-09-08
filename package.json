@@ -1,0 +1,75 @@
+{
+  "name": "rocket-icons-vscode",
+  "displayName": "Rocket Icons",
+  "description": "soft and simple icons",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "keywords": [
+    "icons",
+    "rocket"
+  ],
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#182028",
+    "theme": "dark"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "rocket-icons-duo-folders",
+        "label": "Rocket Icons Duo Folders",
+        "path": "./data/duo_folders.json"
+      },
+      {
+        "id": "rocket-icons-duo-rectangle",
+        "label": "Rocket Icons Duo Rectangle",
+        "path": "./data/duo_rectangle.json"
+      },
+      {
+        "id": "rocket-icons-outline-folders",
+        "label": "Rocket Icons Outline Folders",
+        "path": "./data/outline_folders.json"
+      },
+      {
+        "id": "rocket-icons-outline-rectangle",
+        "label": "Rocket Icons Outline Rectangle",
+        "path": "./data/outline_rectangle.json"
+      },
+      {
+        "id": "rocket-icons-filled-folders",
+        "label": "Rocket Icons Filled Folders",
+        "path": "./data/filled_folders.json"
+      },
+      {
+        "id": "rocket-icons-filled-rectangle",
+        "label": "Rocket Icons Filled Rectangle",
+        "path": "./data/filled_rectangle.json"
+      },
+      {
+        "id": "rocket-icons-reverse-folders",
+        "label": "Rocket Icons Reverse Folders",
+        "path": "./data/reverse_folders.json"
+      },
+      {
+        "id": "rocket-icons-reverse-rectangle",
+        "label": "Rocket Icons Reverse Rectangle",
+        "path": "./data/reverse_rectangle.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "tsx": "^4.19.0"
+  },
+  "scripts": {
+    "start": "tsx prepare/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  }
+}

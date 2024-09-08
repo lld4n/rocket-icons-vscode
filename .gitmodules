@@ -1,0 +1,3 @@
+[submodule "prepare/rocket-icons"]
+	path = prepare/rocket-icons
+	url = https://github.com/lld4n/rocket-icons.git
