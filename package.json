@@ -7,6 +7,7 @@
     "url": "https://github.com/lld4n/rocket-icons-vscode",
     "type": "git"
   },
+  "publisher": "lldan",
   "license": "MIT",
   "engines": {
     "vscode": "^1.93.0"
