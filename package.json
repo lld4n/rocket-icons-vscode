@@ -3,6 +3,11 @@
   "displayName": "Rocket Icons",
   "description": "soft and simple icons",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/lld4n/rocket-icons-vscode",
+    "type": "git"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.93.0"
   },
