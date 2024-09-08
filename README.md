@@ -9,7 +9,7 @@ Icons were designed with simplicity and ease in mind. The icons were based mostl
 
 ## Preview
 
-![](https://raw.githubusercontent.com/lld4n/rocket-icons/d9266bd666be474cd0a6561568644201b1ceb4f6/docs/icons/duo.svg)
-![](https://raw.githubusercontent.com/lld4n/rocket-icons/d9266bd666be474cd0a6561568644201b1ceb4f6/docs/icons/filled.svg)
-![](https://raw.githubusercontent.com/lld4n/rocket-icons/d9266bd666be474cd0a6561568644201b1ceb4f6/docs/icons/outline.svg)
-![](https://raw.githubusercontent.com/lld4n/rocket-icons/d9266bd666be474cd0a6561568644201b1ceb4f6/docs/icons/reverse.svg)
+![](https://github.com/lld4n/rocket-icons/blob/master/docs/icons/duo.png?raw=true)
+![](https://github.com/lld4n/rocket-icons/blob/master/docs/icons/outline.png?raw=true)
+![](https://github.com/lld4n/rocket-icons/blob/master/docs/icons/filled.png?raw=true)
+![](https://github.com/lld4n/rocket-icons/blob/master/docs/icons/reverse.png?raw=true)
